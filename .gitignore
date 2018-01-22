@@ -1,9 +1,8 @@
-# Eclipse
-# .classpath
-# .project
-# .settings/
-#
+## Eclipse
+.classpath
+.project
+.settings/
 # # Maven
-# log/
-# target/
-# bin/
+log/
+target/
+bin/
