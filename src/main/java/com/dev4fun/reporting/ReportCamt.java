@@ -8,4 +8,10 @@ public class ReportCamt implements Report {
 		// TODO Auto-generated constructor stub
 	}
 
+	@Override
+	public boolean formatReport() {
+		System.out.println("printing the report ..... ");
+		return false;
+	}
+
 }

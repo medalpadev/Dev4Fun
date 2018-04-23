@@ -20,5 +20,8 @@ public class ReportingTest {
 	@Test
 	public void testComponent() {
 		assertNotNull(report);
+		report.formatReport();
+		report.formatReport();
+		report.formatReport();
 	}
 }
